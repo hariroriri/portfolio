@@ -14,7 +14,7 @@ const Contact = () => {
         <div class="mt-6 bg-[#161616] rounded-xl">
             <div class="p-10">
 
-                <form action='https://getform.io/f/warkpnnb' method='POST'>
+                <form action='#' method='POST'>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4">
 
                     <div>

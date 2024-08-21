@@ -6,20 +6,20 @@ const Hero = () => {
   return (
     <div className='grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-[1200px] md:h-[90vh] mx-auto py-8 bg-black font-sans'>
     
-    <div className='my-auto mx-auto w-[250px] h-auto lg:w-[310px]'>
+    <div className='my-auto mx-auto w-[300px] h-auto lg:w-[330px]'>
             <img src={heroimage} alt='heroimage' />
     </div>
     <div className='col-span-2 px-5 pt-20'>
 
-        <h1 className='text-white text-4xl sm:text-5xl lg:text-7xl font-extrabold'>
+        <h1 className='text-white text-4xl sm:text-5xl lg:text-6xl font-extrabold'>
             <span className='primary-color'>
                 I'm a
             </span> <br/>
             <TypeAnimation
             sequence={[
-                "Frontend Dev",
+                "MERN stack developer",
                 1000,
-                "UX/UI designer",
+                "Trainer",
                 1000,
                 "Programmer",
                 1000,

@@ -5,6 +5,8 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Skills from './components/Skills';
+import StudentsTrained from './components/StudentsTrained';
+import TechNews from './components/TechNews';
 import Work from './components/Work';
 
 
@@ -15,6 +17,8 @@ function App() {
       <Hero />
       <Skills />
       <About />
+      <StudentsTrained />
+      <TechNews />
       <Work />
       <Contact />
       <Footer />
